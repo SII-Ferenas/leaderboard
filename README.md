@@ -45,7 +45,7 @@ Each submission is a single JSON file added to `submissions/` with this structur
 ```
 
 > [!NOTE]
-> For any field where the information is unavailable or not applicable, write `"N/A"` and explain the reason in the "notes" field.
+> For any field where the information is unavailable or not applicable, write `"N/A"`.
 > The current default `robocasa_version` is `1.0.1` until a new update is announced.
 > `code_url`, `commit_hash`, and `checkpoint_url` are required when `"open_source": "yes"`; with `"open_source": "no"` they may be omitted.
 
